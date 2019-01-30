@@ -7,5 +7,4 @@ def countdown(int)
   int -= 1 
 end 
   "HAPPY NEW YEAR!"
-  binding.pry 
 end
